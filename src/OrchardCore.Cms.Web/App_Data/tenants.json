@@ -1,0 +1,9 @@
+{
+  "Default": {
+    "State": "Running",
+    "RequestUrlPrefix": "qkbiz"
+  },
+  "QKBiz": {
+    "State": "Running"
+  }
+}
